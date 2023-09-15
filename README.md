@@ -6,7 +6,7 @@ add-migration createDBName
 update-database
 
 ##nuggets
-microsoftEntityFrameworkCore.Tools
-MicrosoftEntityFrameworkCore.Sqlite.Design
-microsoftEntityFrameworkCore
-MicrosoftEntityFrameworkCore.Sqlite.Core
+- microsoftEntityFrameworkCore.Tools
+- MicrosoftEntityFrameworkCore.Sqlite.Design
+- microsoftEntityFrameworkCore
+- MicrosoftEntityFrameworkCore.Sqlite.Core
