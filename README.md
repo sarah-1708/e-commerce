@@ -1,11 +1,11 @@
 # e-commerce
 Projet console e-commerce
 
-#Code_First
+##Code_First
 add-migration createDBName
 update-database
 
-#nuggets
+##nuggets
 microsoftEntityFrameworkCore.Tools
 MicrosoftEntityFrameworkCore.Sqlite.Design
 microsoftEntityFrameworkCore
